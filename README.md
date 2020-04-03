@@ -5,7 +5,7 @@
 
 The specialization emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details, which is why I have ultimately opted to implement solutions to the programming assignments in the course using Python, the language I am most comfortable with.
 
-Attempting to use Java or C would have distracted me from the big picture and undermined my efforts to understand high-level concepts in algorithms and data structures.
+Attempting to use Java or C would have distracted me from the big picture and undermined my efforts to understand and remember high-level concepts in algorithms and data structures.
 
 ## Syllabus
 
