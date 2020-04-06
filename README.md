@@ -1,3 +1,5 @@
+Working through this course was a pleasure. It is incredibly intellectually stimulating and I will definitely be back to do the optional problems after my exams, maybe in another language (after I get my Java together).
+
 ## Here you will find:
 - My solutions to the programming assignments.
 - My certificates for each of the courses, in pdf format.
